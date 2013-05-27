@@ -1,4 +1,4 @@
-mentefactura
+Mentefactura
 ============
 
-Sistema para la gestión del conocimiento
+Sistema para la Gestión del Conocimiento
